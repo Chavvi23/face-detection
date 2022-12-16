@@ -7,7 +7,7 @@ Input Image -> Haar feature traversal -> Integral image formation -> Cascade of 
 This face detection web application is built using Harr Cascade Classifier and libraries like cv2 and streamlit. This application recognises the faces in the image uploaded, along with this, it also identifies the smile and eyes, with blue and green color respectively. The code is then deployed on streamlit.
 
 ## 3. Input/Output
-![](result.jpg)
+![](image.jpg)
 ## 4. Live Link
 Check out the deployed app :
 
